@@ -49,4 +49,4 @@ const employee ={
 
 const {machine, ide} =employee;
 const{weight, address} = employee.specification;
-const {brand} = employee.specification.watch;
+const {brand} = employee?.specification?.watch;
