@@ -31,7 +31,7 @@ console.log(numbers);
 console.log(newNumbers);
 
 // create a new array from an older array and add an element
-
+ 
 
 console.log(numbers);
 console.log(newNumbers);
